@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <!-- <meta name='viewport' content='width=1000' /> -->
+    <link href='//fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+
+    <%= stylesheet_link_tag "all" %>
+    <script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>
+    <%= javascript_include_tag "all" %>
+
+    <title><%= data.page.title || "" %></title>
+  </head>
+
+  <body class="<%= page_classes %>">
+    <%= partial 'partials/header' %>
+    <%= yield %>
+    <%= partial 'partials/footer' %>
+  </body>
+</html>
