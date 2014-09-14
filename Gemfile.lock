@@ -104,11 +104,15 @@ GEM
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
+    rainbow (2.0.0)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     redcarpet (3.1.2)
     sass (3.4.4)
+    scss-lint (0.28.0)
+      rainbow (~> 2.0)
+      sass (~> 3.4.0)
     sprockets (2.12.2)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -142,3 +146,4 @@ DEPENDENCIES
   neat (~> 1.6.0)
   rack-contrib (~> 1.1.0)
   redcarpet (~> 3.1.2)
+  scss-lint
