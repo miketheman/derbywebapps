@@ -1,1 +1,1 @@
-web: bundle exec rackup -p 4000
+web: rackup -s puma -p $PORT
