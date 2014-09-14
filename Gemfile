@@ -5,6 +5,7 @@ gem 'middleman', '~> 3.3.5'
 gem 'middleman-livereload', '~> 3.3.4'
 
 gem 'rack-contrib', '~> 1.1.0'
+gem 'puma'
 
 # Style
 gem 'bitters', '~> 0.10.0'

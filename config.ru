@@ -1,3 +1,4 @@
+#/-s puma
 require 'rack/contrib/try_static'
 
 use Rack::Deflater
