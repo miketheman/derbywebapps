@@ -8,14 +8,16 @@
 
     <%= stylesheet_link_tag "all" %>
     <script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>
-    <%= javascript_include_tag "all" %>
 
     <title><%= data.page.title || "" %></title>
   </head>
 
   <body class="<%= page_classes %>">
-    <%= partial 'partials/header' %>
-    <%= yield %>
-    <%= partial 'partials/footer' %>
+    <div id="main" role="main">
+      <%= partial 'partials/header' %>
+      <%= yield %>
+      <%= partial 'partials/footer' %>
+    </div>
   </body>
+  <%= javascript_include_tag "all" %>
 </html>
