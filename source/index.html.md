@@ -13,11 +13,11 @@ Source is located on [GitHub](https://github.com/miketheman/derbywebapps/blob/ma
 ## Associations
 Organizations that provide sanctioning and/or rules for large groups of roller derby play.
 
-- [Women’s Flat Track Derby Association (WFTDA)](http://wftda.com/)
+- [Junior Roller Derby Association (JRDA)](http://www.juniorrollerderby.org/)
 - [Men's Roller Derby Association (MRDA)](http://www.mensrollerderbyassociation.com/)
 - [United Kingdom Roller Derby Association (UKRDA)](http://ukrda.org.uk/)
 - [USA Roller Sports (USARS)](http://www.teamusa.org/usa-roller-sports)
-- [Junior Roller Derby Association (JRDA)](http://www.juniorrollerderby.org/)
+- [Women’s Flat Track Derby Association (WFTDA)](http://wftda.com/)
 
 ## Media
 
@@ -25,7 +25,7 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 - [rdjunkies](http://rdjunkies.tumblr.com/)
 - [WFTDA.tv](http://wftda.tv/)
 - [Rollin' News](http://rollinnews.com/)
-- [Lead jammer Magazine](http://www.leadjammermag.com/)
+- [Lead Jammer Magazine](http://www.leadjammermag.com/)
 - [Blood and Thunder magazine](http://bloodandthundermag.com/)
 
 ## Ranking
@@ -63,3 +63,4 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 ## Games
 
 - [JammerUp](http://jammerup.com/)
+ 
