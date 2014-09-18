@@ -21,21 +21,22 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 
 ## Media
 
+- [Blood and Thunder magazine](http://bloodandthundermag.com/)
+- [Derby Central](http://www.derbycentral.net/)
+- [Lead Jammer Magazine](http://www.leadjammermag.com/)
+- [Rollin' News](http://rollinnews.com/)
+- [WFTDA.tv](http://wftda.tv/)
 - [derbylife](http://www.derbylife.com/)
 - [rdjunkies](http://rdjunkies.tumblr.com/)
-- [WFTDA.tv](http://wftda.tv/)
-- [Rollin' News](http://rollinnews.com/)
-- [Lead Jammer Magazine](http://www.leadjammermag.com/)
-- [Blood and Thunder magazine](http://bloodandthundermag.com/)
 
 ## Ranking
 
-- [WFTDA](http://wftda.com/rankings)
-- [MRDA](http://www.mensrollerderbyassociation.com/current-rankings/)
-- [UKRDA](http://ukrda.org.uk/?tag=rankings)
-- [Flat Track Stats](http://flattrackstats.com/)
 - [Derby Data Europe](http://derbydataeurope.com/category/rankings-2/)
 - [Derbytron](http://derbytron.com/)
+- [Flat Track Stats](http://flattrackstats.com/)
+- [MRDA](http://www.mensrollerderbyassociation.com/current-rankings/)
+- [UKRDA](http://ukrda.org.uk/?tag=rankings)
+- [WFTDA](http://wftda.com/rankings)
 
 ## Discussion
 
@@ -44,9 +45,9 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 
 ## Applications (downloadable)
 
-- [WFTDA Rules App](http://wftda.com/store/wftda/item/99110001) - reference
-- [Minimum Skills](http://rollerderbytestomatic.com/minimumskills)
 - [Carolina Roller Derby Scoreboard](http://sourceforge.net/projects/derbyscoreboard/)
+- [Minimum Skills](http://rollerderbytestomatic.com/minimumskills)
+- [WFTDA Rules App](http://wftda.com/store/wftda/item/99110001) - reference
 
 ## Applications (web-based)
 
@@ -54,11 +55,11 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 
 ## Derby Name Registers
 
-- [Two Evils](http://www.twoevils.org/rollergirls/) - No longer active
 - [Derby Roll Call](http://www.derbyrollcall.com/)
+- [Junior Derby Names List](http://www.juniorrollerderby.org/junior-derby-names-listing.html)
 - [Roller Derby AU](http://www.rollerderbyau.net/derby-names-roster/womens-derby-names-roster/)
 - [Roller Derby Association of Canada](http://rollerderbycanada.ca/?page_id=465)
-- [Junior Derby Names List](http://www.juniorrollerderby.org/junior-derby-names-listing.html)
+- [Two Evils](http://www.twoevils.org/rollergirls/) - No longer active
 
 ## Games
 
