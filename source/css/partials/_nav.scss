@@ -1,10 +1,23 @@
-nav {
+#nav {
   border-bottom: 1px solid $base-border-color;
   margin: em(30) 0;
+  @include outer-container;
 
-  ul {
+  .left {
+    @include span-columns(9);
     display: inline-block;
     margin-bottom: em(10);
+  }
+
+  .right {
+    // TODO: actually figure out how to position content on the right.
+    @include span-columns(3);
+    display: inline-block;
+    margin-bottom: em(10);
+  }
+
+  .button {
+    @extend button;
   }
 }
 
