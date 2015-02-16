@@ -2,9 +2,41 @@
   @include outer-container;
 }
 
+body {
+  font-family-serif: 'Oxygen';
+}
+
+// Headings
+// Source ideas: http://tympanus.net/codrops/2012/11/02/heading-set-styling-with-css/
+.headings {
+  color: #343434;
+  font-family: 'Orienta', sans-serif;
+  font-weight: normal;
+  margin: 1em 0 0.5em 0;
+}
+
+h1 {
+  @extend .headings;
+  font-family: 'Ultra', sans-serif;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+h2 {
+  @extend .headings;
+  font-size: 30px;
+}
+
+h3 {
+  @extend .headings;
+  font-size: 22px;
+  font-style: italic;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+// bullets
 ul ol {
-  font-size: 1em;
-  font-weight: 500;
 
   li {
     margin: .5em 0;
