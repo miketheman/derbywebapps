@@ -1,20 +1,23 @@
 source 'https://rubygems.org'
-ruby '2.1.2'
+ruby '2.2.0'
 
-gem 'middleman', '~> 3.3.5'
-gem 'middleman-livereload', '~> 3.3.4'
+gem 'middleman', '~> 3.3.8'
+gem 'middleman-livereload', '~> 3.4.2'
 
-gem 'rack-contrib', '~> 1.1.0'
+gem 'rack-contrib', '~> 1.2.0'
 gem 'puma'
 
-# Style
-gem 'bitters', '~> 0.10.0'
-gem 'bourbon', '~> 4.0.2'
-gem 'neat', '~> 1.6.0'
-
 # For Markdown
-gem 'redcarpet', '~> 3.1.2'
+gem 'redcarpet', '~> 3.2.2'
 
 group :development do
   gem 'scss-lint'
+end
+
+# These gems are needed solely for generating other files,
+# and are not part of the deployment bundle
+group :codegen do
+  gem 'bitters', '~> 1.0.0'
+  gem 'bourbon', '~> 4.2.0' # run `bourbon update --path ./source/css/`
+  gem 'neat', '~> 1.7.1' # TODO: bump when https://github.com/thoughtbot/neat/pull/294 released.
 end
