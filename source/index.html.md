@@ -28,15 +28,19 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 - [WFTDA.tv](http://wftda.tv/)
 - [derbylife](http://www.derbylife.com/)
 - [rdjunkies](http://rdjunkies.tumblr.com/)
+- [Derby Ref](http://derbyref.tumblr.com/)
 
 ## Ranking
 
 - [Derby Data Europe](http://derbydataeurope.com/category/rankings-2/)
-- [Derbytron](http://derbytron.com/)
 - [Flat Track Stats](http://flattrackstats.com/)
 - [MRDA](http://www.mensrollerderbyassociation.com/current-rankings/)
 - [UKRDA](http://ukrda.org.uk/?tag=rankings)
 - [WFTDA](http://wftda.com/rankings)
+
+### inactive
+
+- [Derbytron](http://derbytron.com/) - No updates since 2013
 
 ## Discussion
 
@@ -47,10 +51,12 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 
 - [Carolina Roller Derby Scoreboard](http://sourceforge.net/projects/derbyscoreboard/)
 - [Minimum Skills](http://rollerderbytestomatic.com/minimumskills)
+- [Roller Derby Test O'Matic](http://rollerderbytestomatic.com/)
 - [WFTDA Rules App](http://wftda.com/store/wftda/item/99110001) - reference
 
 ## Applications (web-based)
 
+- [Derby Earth](http://derbyearth.blogspot.com/)
 - [Roller Derby Test O'Matic](http://rollerderbytestomatic.com/)
 
 ## Derby Name Registers
@@ -59,9 +65,11 @@ Organizations that provide sanctioning and/or rules for large groups of roller d
 - [Junior Derby Names List](http://www.juniorrollerderby.org/junior-derby-names-listing.html)
 - [Roller Derby AU](http://www.rollerderbyau.net/derby-names-roster/womens-derby-names-roster/)
 - [Roller Derby Association of Canada](http://rollerderbycanada.ca/?page_id=465)
-- [Two Evils](http://www.twoevils.org/rollergirls/) - No longer active
+
+### inactive
+
+- [Two Evils](http://www.twoevils.org/rollergirls/) - Last updated: 2013-05-16
 
 ## Games
 
 - [JammerUp](http://jammerup.com/)
- 
