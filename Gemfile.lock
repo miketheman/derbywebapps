@@ -99,7 +99,7 @@ GEM
     padrino-support (0.12.8.1)
       activesupport (>= 3.1)
     puma (3.11.2)
-    rack (1.6.8)
+    rack (1.6.11)
     rack-contrib (1.2.0)
       rack (>= 0.9.1)
     rack-livereload (0.3.16)
@@ -117,7 +117,7 @@ GEM
     scss-lint (0.38.0)
       rainbow (~> 2.0)
       sass (~> 3.4.1)
-    sprockets (2.12.4)
+    sprockets (2.12.5)
       hike (~> 1.2)
       multi_json (~> 1.0)
       rack (~> 1.0)
@@ -155,7 +155,7 @@ DEPENDENCIES
   scss-lint
 
 RUBY VERSION
-   ruby 2.5.0p0
+   ruby 2.5.1p57
 
 BUNDLED WITH
    1.16.1
