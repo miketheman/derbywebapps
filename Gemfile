@@ -1,14 +1,14 @@
 source 'https://rubygems.org'
-ruby '2.5.1'
+ruby '2.6.1'
 
-gem 'middleman', '~> 3.3.8'
-gem 'middleman-livereload', '~> 3.4.2'
+gem 'middleman', '~> 3.3'
+gem 'middleman-livereload', '~> 3.4'
 
-gem 'rack-contrib', '~> 1.2.0'
+gem 'rack-contrib', '~> 1.2'
 gem 'puma'
 
 # For Markdown
-gem 'redcarpet', '~> 3.2.2'
+gem 'redcarpet', '~> 3.2'
 
 group :development do
   gem 'scss-lint'
