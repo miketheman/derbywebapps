@@ -5,7 +5,7 @@ gem 'middleman', '~> 3.4', '>= 3.4.1'
 gem 'middleman-livereload', '~> 3.4', '>= 3.4.6'
 
 gem 'rack-contrib', '~> 1.2'
-gem 'puma'
+gem 'puma', '>= 3.12.2'
 
 # For Markdown
 gem 'redcarpet', '~> 3.2'
