@@ -5,13 +5,13 @@ gem 'middleman', '~> 3.4', '>= 3.4.1'
 gem 'middleman-livereload', '~> 3.4', '>= 3.4.6'
 
 gem 'rack-contrib', '~> 1.2'
-gem 'puma', '>= 3.12.2'
+gem 'puma', '>= 4.3.2'
 
 # For Markdown
 gem 'redcarpet', '~> 3.2'
 
 group :development do
-  gem 'scss-lint'
+  gem 'scss-lint', '>= 0.38.0'
 end
 
 # These gems are needed solely for generating other files,
