@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 ruby '2.6.1'
 
-gem 'middleman', '~> 3.4', '>= 3.4.1'
+gem 'middleman', '~> 4.1', '>= 4.1.11'
 gem 'middleman-livereload', '~> 3.4', '>= 3.4.6'
 
-gem 'rack-contrib', '~> 1.2'
+gem 'rack-contrib', '~> 2.0', '>= 2.0.0'
 gem 'puma', '>= 4.3.2'
 
 # For Markdown
