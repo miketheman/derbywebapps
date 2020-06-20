@@ -4,7 +4,7 @@ ruby '2.6.1'
 gem 'middleman', '~> 4.3', '>= 4.3.7'
 gem 'middleman-livereload', '~> 3.4', '>= 3.4.6'
 
-gem 'rack-contrib', '~> 2.0', '>= 2.0.0'
+gem 'rack-contrib', '~> 2.2', '>= 2.2.0'
 gem 'puma', '>= 4.3.5'
 
 # For Markdown
