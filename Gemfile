@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.6.1'
 
-gem 'middleman', '~> 4.3', '>= 4.3.7'
+gem 'middleman', '~> 4.3', '>= 4.3.8'
 gem 'middleman-livereload', '~> 3.4', '>= 3.4.6'
 
 gem 'rack-contrib', '~> 2.2', '>= 2.2.0'
