@@ -8,7 +8,7 @@ gem 'rack-contrib', '~> 2.2', '>= 2.2.0'
 gem 'puma', '>= 4.3.5'
 
 # For Markdown
-gem 'redcarpet', '~> 3.2'
+gem 'redcarpet', '~> 3.5'
 
 group :development do
   gem 'scss-lint', '>= 0.38.0'
